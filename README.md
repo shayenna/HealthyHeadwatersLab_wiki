@@ -4,3 +4,6 @@ This repository holds information helpful for the ongoing operations of the Heal
 Any member of the Healthy Headwaters Lab can freely edit the components of the wiki.
 
 <b>INSERT INFO ON HOW TO EDIT IN GITHUB</b>
+
+Table of Contents
+* [Wiki License](HealthyHeadwatersLab_wiki/LICENSE)
