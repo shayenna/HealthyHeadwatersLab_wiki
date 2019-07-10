@@ -6,4 +6,4 @@ Any member of the Healthy Headwaters Lab can freely edit the components of the w
 <b>INSERT INFO ON HOW TO EDIT IN GITHUB</b>
 
 Table of Contents
-* [Wiki License](.../blob/master/LICENSE)
+* [Wiki License](/LICENSE)
