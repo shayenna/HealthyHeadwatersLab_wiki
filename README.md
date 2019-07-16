@@ -8,8 +8,8 @@ To edit the Wiki, navigate to the file that you want to edit, and click on the e
 
 ### Table of Contents
 * [Lab Member Directory](/Directory.md)
-* Lab Orientation
-* Field Work
-* Lab Equipment
-* Student Onboarding at GLIER/UWindsor
-* Resources for exploring Windsor!
+* [Lab Orientation](/Lab-orientation/Lab-orientation.md)
+* [Field Work](/Field-work/Field-work.md)
+* [Lab Equipment](/Equipment/Equipment.md)
+* [Student Onboarding at GLIER/UWindsor](/Other-resources/Student-onboarding.md)
+* [Resources for exploring Windsor!](/Other-resources/Other-resources.md)
