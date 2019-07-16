@@ -13,4 +13,3 @@ Table of Contents
 * Student Onboarding at GLIER/UWindsor
 * Resources for exploring Windsor!
 
-I'm testing access to the master branch
