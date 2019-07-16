@@ -3,10 +3,11 @@
 This repository holds information helpful for the ongoing operations of the Healthy Headwaters Lab. 
 Any member of the Healthy Headwaters Lab can freely edit the components of the wiki.
 
-<b>INSERT INFO ON HOW TO EDIT IN GITHUB</b>
+### Editing the Wiki
+To edit the Wiki, 
 
-Table of Contents
-* [Wiki License](/LICENSE)
+### Table of Contents
+* [Lab Member Directory](/Directory)
 * Lab Orientation
 * Field Work
 * Lab Equipment
