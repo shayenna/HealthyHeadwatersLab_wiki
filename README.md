@@ -12,3 +12,5 @@ Table of Contents
 * Lab Equipment
 * Student Onboarding at GLIER/UWindsor
 * Resources for exploring Windsor!
+
+I'm testing access to the master branch
