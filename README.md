@@ -16,3 +16,7 @@ Wiki_structure_dev
 * [Resources for exploring Windsor!](/Other-resources/Other-resources-about-Windsor.md)
 * [Field Work](/Field-work/Field-work.md)
 * [Lab Equipment](/Equipment/Equipment.md)
+* Lab Management (day to day workings of the lab - fill in!)
+* Data Management (Jess to fill in)
+* R (Jess fill in)
+* Travel (conferences, meetings, reimbursement info, etc)
