@@ -11,8 +11,7 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
 ### Table of Contents
 Wiki_structure_dev
 * [Lab Member Directory](/Directory.md)
-* [Lab Orientation](/Lab-orientation/Lab-orientation.md)
-* [Field Work](/Field-work/Field-work.md)
-* [Lab Equipment](/Equipment/Equipment.md)
 * [Student Onboarding at GLIER/UWindsor](/Other-resources/Student-onboarding.md)
 * [Resources for exploring Windsor!](/Other-resources/Other-resources.md)
+* [Field Work](/Field-work/Field-work.md)
+* [Lab Equipment](/Equipment/Equipment.md)
