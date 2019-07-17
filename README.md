@@ -13,6 +13,6 @@ Wiki_structure_dev
 * [Lab Member Directory](/Directory.md)
 * [Lab Manual](/Healthy-Headwaters-Lab-Manual.docx) *Note: this link won't work until we finish the lab manual and upload a file with the correct name*
 * [Student Onboarding at GLIER/UWindsor](/Other-resources/Student-onboarding.md)
-* [Resources for exploring Windsor!](/Other-resources/Other-resources.md)
+* [Resources for exploring Windsor!](/Other-resources/Other-resources-about-Windsor.md)
 * [Field Work](/Field-work/Field-work.md)
 * [Lab Equipment](/Equipment/Equipment.md)
