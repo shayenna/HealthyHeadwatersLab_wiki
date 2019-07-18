@@ -3,11 +3,20 @@ This section details the protocol and resources for the various types of field w
 
 ## General
 ### Safety
-**ALWAYS make sure someone *not in the field* knows where you are and when you will be back. NEVER do field work alone!**  
+**ALWAYS make sure someone *not in the field* knows where you are and when you will be back. NEVER do field work alone!**    
+Health and safety in the field are paramount. Research is **never** worth risking injury. If you are ever in a situation in the field where you feel unsafe, immediately discontinue the fieldwork. You can contact Catherine or the project manager to discuss options for delaying or modifying the field work, depending on the situation.  
+Everyone involved in field work should be adequately trained. It is ok to not know something - and if you forget, just ask! It is always better to double check with others if you're unsure about protocols, rather than risk your safety or compromise data.
+
+### Resources 
+#### Lab Activities Inventory 
+The Healthy Headwaters Activities Inventory (Dropbox/1.Healthy Headwaters Lab Activities INVENTORY.xlsx) tracks all types of activities the Healthy Headwaters Lab is conducting, across all projects. The activities inventory in managed by the research facilitator but can be added to by anyone. Activities from field activity plans will automatically be added to the inventory, but please let Jess I. know if you are participating in other activities (e.g., partner meetings, public outreach) and it will also be added.
+
+#### Field work checklist 
+A current field work checklist can be found in Dropbox (Dropbox/Forms/Field-gear-checklist.docx)
 
 
 ### Before Leaving GLIER
-* Fill out a [Field Activity Plan](/Field-work/Field-activity-plan.docx) and send it to Catherine and Jess Ives. (Or Alyssa??) The Field Activity Plan will be saved on Dropbox and serve as a partial record of our lab activities.
+* Fill out a Field Activity Plan (Dropbox/Forms/Field-Activity-Plan.docx) and send it to Catherine and Jess Ives. (Or Alyssa??) The Field Activity Plan will be saved on Dropbox and serve as a partial record of our lab activities.
 * Make sure you have all of the supplies and equipment you need (Complete the [field work checklist])
 * Sign any equipment out on the [Asana Equipment Locations Sheet](https://app.asana.com/0/1128801752832452/board)
 
