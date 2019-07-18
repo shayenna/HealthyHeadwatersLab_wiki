@@ -3,9 +3,11 @@ This section details the protocol and resources for the various types of field w
 
 ## General
 ### Safety
-**ALWAYS make sure someone *not in the field* knows where you are and when you will be back. NEVER do field work alone!** 
+**ALWAYS make sure someone *not in the field* knows where you are and when you will be back. NEVER do field work alone!**  
+
 
 ### Before Leaving GLIER
+* Fill out a [Field Activity Plan](/Field-work/Field-activity-plan.docx) and send it to Catherine and Jess Ives. (Or Alyssa??) The Field Activity Plan will be saved on Dropbox and serve as a partial record of our lab activities.
 * Make sure you have all of the supplies and equipment you need (Complete the [field work checklist])
 * Sign any equipment out on the [Asana Equipment Locations Sheet](https://app.asana.com/0/1128801752832452/board)
 
