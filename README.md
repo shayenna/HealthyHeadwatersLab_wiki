@@ -20,7 +20,7 @@ Wiki_structure_dev
 * Data Management (Jess to fill in)
 * R and Data Analysis (Jess fill in)
 * Publishing (Jess fill in)
-* Travel (conferences, meetings, reimbursement info, etc)
-* Working with Partners (Jess to fill in)
+* [Travel](/Other-resources/Travel.md) (conferences, meetings, reimbursement info, etc)
+* Communications (including presentations, public outreach, working with partners)
 * Offboarding (when you leave the lab!)
 
