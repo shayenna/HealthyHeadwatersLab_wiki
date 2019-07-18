@@ -19,8 +19,8 @@ Wiki_structure_dev
 * Lab Management (day to day workings of the lab - fill in!)
 * Data Management (Jess to fill in)
 * R and Data Analysis (Jess fill in)
-* Publishing (Jess fill in)
-* Travel (conferences, meetings, reimbursement info, etc)
-* Working with Partners (Jess to fill in)
+* Publishing (Jess fill in - should this be lumped into Communications?)
+* [Travel](/Other-resources/Travel.md) (conferences, meetings, reimbursement info, etc)
+* [Communications](/Other-resources/Communications.md) (including presentations, public outreach, working with partners, social media)
 * Offboarding (when you leave the lab!)
 
