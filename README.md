@@ -17,7 +17,7 @@ Wiki_structure_dev
 * [Field Work](/Field-work/Field-work.md)
 * [Lab Equipment](/Equipment/Equipment.md)
 * Lab Management (day to day workings of the lab - fill in!)
-* Data Management (Jess to fill in)
+* [Data Management](/Data-management.md)
 * R and Data Analysis (Jess fill in)
 * Publishing (Jess fill in - should this be lumped into Communications?)
 * [Travel](/Other-resources/Travel.md) (conferences, meetings, reimbursement info, etc)
