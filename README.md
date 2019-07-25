@@ -20,6 +20,7 @@ Wiki_structure_dev
 * R and Data Analysis (Jess fill in)
 * Publishing (Jess fill in - should this be lumped into Communications?)
 * [Travel](/Other-resources/Travel.md) (conferences, meetings, reimbursement info, etc)
+* [Student Scholarships](/Other-resources/Student-scholarships.md)
 * [Communications](/Other-resources/Communications.md) (including presentations, public outreach, working with partners, social media)
 * Offboarding (when you leave the lab!)
 
