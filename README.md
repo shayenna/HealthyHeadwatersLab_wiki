@@ -10,7 +10,7 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
 
 ### Table of Contents
 Wiki_structure_dev
-* [Lab Member Directory](/Lab-structure-and-directories/Directory.md) [(Emergency contacts for lab members)](https://www.dropbox.com/s/mq0ujsqszpv3x6r/Emergency_contact_information.docx?dl=0)
+* [Lab Member Directory](/Lab-structure-and-directories/Directory.md) (Emergency contacts for lab members are found in Dropbox/Lab manual/Emergency-contact-information.docx)
 * [Lab Manual](/Healthy-Headwaters-Lab-Manual.docx) *Note: this link won't work until we finish the lab manual and upload a file with the correct name*
 * [Student Onboarding at GLIER/UWindsor](/Other-resources/Student-onboarding.md)
 * [Resources for Exploring Windsor!](/Other-resources/Other-resources-about-Windsor.md)
