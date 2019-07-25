@@ -8,9 +8,8 @@ To edit the Wiki, navigate to the file that you want to edit, and click on the e
 
 A useful cheatsheet for formatting Markdown files (everything with the .md file type) can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-### Table of Contents
+### Contents
 Wiki_structure_dev
-* [Lab Member Directory](/Lab-structure-and-directories/Directory.md) (Emergency contacts for lab members are found in Dropbox/Lab manual/Emergency-contact-information.docx)
 * [Lab Manual](/Healthy-Headwaters-Lab-Manual.docx) *Note: this link won't work until we finish the lab manual and upload a file with the correct name*
 * [Student Onboarding at GLIER/UWindsor](/Other-resources/Student-onboarding.md)
 * [Resources for Exploring Windsor!](/Other-resources/Other-resources-about-Windsor.md)
@@ -24,3 +23,6 @@ Wiki_structure_dev
 * [Communications](/Other-resources/Communications.md) (including presentations, public outreach, working with partners, social media)
 * Offboarding (when you leave the lab!)
 
+### Contact information
+A Lab Member Directory can be found in Dropbox at Dropbox/Lab manual/Labe-directory.docx  
+(Emergency contacts for lab members are found in Dropbox/Lab manual/Emergency-contact-information.docx)
