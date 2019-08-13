@@ -10,6 +10,6 @@ Many of the logistics of being a student at GLIER are covered in the [GLIER Stud
 - [ ]	Contact Catherine to be invited to join the shared Zotero library
 - [ ]	Contact Catherine to be granted access to the lab Dropbox folder
 - [ ]	Contact Jess Ives to be granted access to the lab GitHub team
-- [ ]	Complete the required Health and Safety trainings (JESS - FIND LINK)
-- [ ]	Complete any required readings (JESS- LINK HERE ONCE WE KNOW WHERE READINGS WILL BE)
+- [ ]	Complete the required [Health and Safety trainings](http://www1.uwindsor.ca/hr/system/files/CTR-FS-Aug%202015.pdf)
+- [ ]	Complete any required readings 
 - [ ]	Ask Catherine about which keys you need, and follow up with Mary Lou to arrange to get them
