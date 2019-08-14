@@ -27,10 +27,3 @@ Jess Owen is the Healthy Headwaters Lab Aquatic Science Field and Lab Technician
 * Analyses Healthy Headwater Lab water samples for C, P, and N
 * Trains new lab members in nutrient analysis
 
-### Stream Ecology and Biomonitoring Technician
-Alyssa Frazao is the Healthy Headwaters Lab Stream Ecology and Biomonitoring Technician. She:
-* Leads aquatic invertebrate sample analysis
-* Oversees lab organization and supplies (Room 235)
-* Oversees field storage and field supplies
-* Ensures field and lab equipment are in working order, calibrated, and up-to-date
-* Trains new lab members in field work methods and invertebrate identification
