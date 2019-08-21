@@ -17,12 +17,11 @@ Wiki_structure_dev
 * [Lab Equipment](/Equipment/Equipment.md)
 * Lab Management (day to day workings of the lab - fill in!)
 * [Data Management](/Data-management.md)
-* R and Data Analysis (Jess fill in)
-* Publishing (Jess fill in - should this be lumped into Communications?)
+* [R and Data Analysis](/Other-resources/R.md) (Jess fill in)
 * [Travel](/Other-resources/Travel.md) (conferences, meetings, reimbursement info, etc)
 * [Student Scholarships](/Other-resources/Student-scholarships.md)
-* [Communications](/Other-resources/Communications.md) (including presentations, public outreach, working with partners, social media)
-* Offboarding (when you leave the lab!)
+* [Communications](/Other-resources/Communications.md) (including presentations, public outreach, publications, working with partners, social media)
+* [Offboarding (when you leave the lab!)](/Other-resources/Offboarding.md)
 
 ### Contact information
 A Lab Member Directory can be found in Dropbox at Dropbox/Lab manual/Labe-directory.docx  
