@@ -19,7 +19,7 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
   * [Data Management](/Data-management.md)
   * [R and Data Analysis](/Other-resources/R.md)
 * Communication and Partnership information
-  * [Communications](/Other-resources/Communications.md) (including presentations, public outreach, publications, working with partners, social media)
+  * [Communications](/Communications/Communications-general.md) (including presentations, public outreach, publications, working with partners, social media)
   * [Community & Translation Information and Guidelines](/Communications/Community-translation.md)
 * Other resources
   * [Travel](/Other-resources/Travel.md) (conferences, meetings, reimbursement info, etc)
