@@ -21,16 +21,26 @@ When preparing a presentation, keep these deadlines in mind:
 You are encouraged to begin each public presentation with respect and gratitude through an acknowledgement of the indigenous peoples and places. Please acknowledge the lands where you conducted the work but also where you are presenting. Please work with Candy and Catherine if you are unsure or would like some feedback and practice.
 
 #### Creating good posters
-PLACEHOLDER
+Some resources with tips for creating an effective poster:
+* [Poster presentation tips from Michigan State University](http://urca.msu.edu/posters)
+* [Ten Simple Rules for a Good Poster Presentation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030102) by Thomas Erren and Philip Bourne
+* [UWindsor Poster and Presentation Guide](https://scholar.uwindsor.ca/uwilldiscover/posters-presentations.html)
 
 ### Public outreach
 Public outreach is an important part of working in this lab, and a key mechanism of our lab’s translation of research. We need to connect with people to gain public support, community buy-in, and the valuable local knowledge that is vital for building useful and needed work.
+
 As a member of the Healthy Headwaters lab, there may be various opportunities for public outreach, both planned (e.g., community presentations, information booths at local events) and unplanned (e.g., you may be approached by neighbours while you are doing field work). You should practice explaining your work in a way that engages rather than alienates people. Avoid jargon and technical terms. Practice speaking concisely and relating your work to outcomes that matter to the audience. 
 
 #### Social media
-Social media is a type of public outreach, and an effective one at that.
+Social media is a type of public outreach, and an effective one at that. ADD MORE.
 
 ### Publications
+Publications are one of our lab’s most important currency with the scientific community, and a key milestone for graduate students in the GLIER program (i.e., you need a publishable manuscript as a requirement of completion). You will work with Catherine to outline thesis chapters as publishable manuscripts, and these will be your guideposts throughout your program.  
+
+In general, we promote and encourage publishing best practice. And it is a practice. Identify your targeted journals early and read the submission instructions carefully. We prefer to publish in journals that are open access or have open access as an option and thus Catherine has included publishing charges in various grants and budgets. When referencing – make sure to reference things like R packages, not just papers! Work with the university librarians to ensure you have cited things correctly, and they also have recommended ways to cite contributions from elders and other knowledge holders.  
+
+Additionally, you are highly encouraged to produce a creative work that accompanies each manuscript. Some journals require a single image/graphic as part of the abstract, some of our research has also been developed into a public library containing two-page downloadable resources for the public (see: http://tinyurl.com/carextips for an example). Some of our teaching has been captured in a YouTube video (see: https://www.youtube.com/watch?v=jIFl_U7MGxA&t=2s). 
+
 
 ### Working with partners
 PLACEHOLDER
