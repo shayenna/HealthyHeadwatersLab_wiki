@@ -32,7 +32,13 @@ Public outreach is an important part of working in this lab, and a key mechanism
 As a member of the Healthy Headwaters lab, there may be various opportunities for public outreach, both planned (e.g., community presentations, information booths at local events) and unplanned (e.g., you may be approached by neighbours while you are doing field work). You should practice explaining your work in a way that engages rather than alienates people. Avoid jargon and technical terms. Practice speaking concisely and relating your work to outcomes that matter to the audience. 
 
 #### Social media
-Social media is a type of public outreach, and an effective one at that. ADD MORE.
+Social media is a type of public outreach, and an effective one at that.  
+
+* On social media, use the hashtag #HealthyHeadwatersLab for tagging people, topics, or content related to the lab's activities. 
+* Make sure content tagged aligns with the Healthy Headwaters Lab mission and follows all of the communications ground rules
+
+#### Healthy Headwaters Blog
+The Healthy Headwaters Blog ([Reflections](https://www.healthyheadwaterslab.ca/blog)) is maintained by Candy. If you have ideas for blog posts - contact Candy. She's always looking for ideas or guest blog writers!
 
 ### Publications
 Publications are one of our lab’s most important currency with the scientific community, and a key milestone for graduate students in the GLIER program (i.e., you need a publishable manuscript as a requirement of completion). You will work with Catherine to outline thesis chapters as publishable manuscripts, and these will be your guideposts throughout your program.  
