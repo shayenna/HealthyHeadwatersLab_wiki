@@ -27,5 +27,5 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
   * [Offboarding (when you leave the lab!)](/Other-resources/Offboarding.md)
 
 ### Contact information
-A Lab Member Directory can be found in Dropbox at Dropbox/Lab manual/Lab-directory.docx  
-(Emergency contacts for lab members are found in Dropbox/Lab manual/Emergency-contact-information.docx)
+A Lab Member Directory can be found in Dropbox at "Shared HHL Dropbox/Lab manual/Lab-directory.docx"  
+(Emergency contacts for lab members are found in "Shared HHL Dropbox/Lab manual/Emergency-contact-information.docx")
