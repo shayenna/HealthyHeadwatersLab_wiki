@@ -12,10 +12,11 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
 * [Lab Manual](/Healthy-Headwaters-Lab-Manual.docx) *Note: this link won't work until we finish the lab manual and upload a file with the correct name*
 * [Student Onboarding at GLIER/UWindsor](/Other-resources/Student-onboarding.md)
 * [Resources for Exploring Windsor!](/Other-resources/Other-resources-about-Windsor.md)
+* [Lab Roles]
 * Protocols
   * [Field Work](/Field-work/Field-work.md)
   * [Lab Equipment](/Equipment/Equipment.md)
-  * [Data Management](/Data-management.md)
+  * [Data Management](/Other-resources/Data-management.md)
   * [R and Data Analysis](/Other-resources/R.md)
 * Communication and Partnership information
   * [Communications](/Communications/Communications-general.md) (including presentations, public outreach, publications, working with partners, social media)
