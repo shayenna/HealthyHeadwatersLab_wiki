@@ -1,5 +1,5 @@
 # Student Scholarship List
-Below is a list of scholarships that may be relevant to students in the Healthy Headwaters Lab. Please feel free to add to this list!
+Catherine will work with you to plan which awards should/could be targeted, but you are encouraged to identify funding opportunities that are aligned with your research and career plans. Below is a list of scholarships that may be relevant to students in the Healthy Headwaters Lab. Please feel free to add to this list!
 
 ### Travel Scholarships
 **Great Lakes Fishery Commission Travel Scholarship**  
