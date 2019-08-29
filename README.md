@@ -9,20 +9,23 @@ To edit the Wiki, navigate to the file that you want to edit, and click on the e
 A useful cheatsheet for formatting Markdown files (everything with the .md file type) can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### Contents
-Wiki_structure_dev
 * [Lab Manual](/Healthy-Headwaters-Lab-Manual.docx) *Note: this link won't work until we finish the lab manual and upload a file with the correct name*
 * [Student Onboarding at GLIER/UWindsor](/Other-resources/Student-onboarding.md)
 * [Resources for Exploring Windsor!](/Other-resources/Other-resources-about-Windsor.md)
-* [Field Work](/Field-work/Field-work.md)
-* [Lab Equipment](/Equipment/Equipment.md)
-* Lab Management (day to day workings of the lab - fill in!)
-* [Data Management](/Data-management.md)
-* [R and Data Analysis](/Other-resources/R.md) (Jess fill in)
-* [Travel](/Other-resources/Travel.md) (conferences, meetings, reimbursement info, etc)
-* [Student Scholarships](/Other-resources/Student-scholarships.md)
-* [Communications](/Other-resources/Communications.md) (including presentations, public outreach, publications, working with partners, social media)
-* [Offboarding (when you leave the lab!)](/Other-resources/Offboarding.md)
+* [Lab Roles](/Lab-structure/Lab-roles.md)
+* Protocols
+  * [Field Work](/Field-work/Field-work.md)
+  * [Lab Equipment](/Equipment/Equipment.md)
+  * [Data Management](/Other-resources/Data-management.md)
+  * [R and Data Analysis](/Other-resources/R.md)
+* Communication and Partnership information
+  * [Communications](/Communications/Communications-general.md) (including presentations, public outreach, publications, working with partners, social media)
+  * [Community & Translation Information and Guidelines](/Communications/Community-translation.md)
+* Other resources
+  * [Travel](/Other-resources/Travel.md) (conferences, meetings, reimbursement info, etc)
+  * [Student Scholarships](/Other-resources/Student-scholarships.md)
+  * [Offboarding (when you leave the lab!)](/Other-resources/Offboarding.md)
 
 ### Contact information
-A Lab Member Directory can be found in Dropbox at Dropbox/Lab manual/Labe-directory.docx  
-(Emergency contacts for lab members are found in Dropbox/Lab manual/Emergency-contact-information.docx)
+A Lab Member Directory can be found in Dropbox at "Shared HHL Dropbox/Lab manual/Lab-directory.docx"  
+(Emergency contacts for lab members are found in "Shared HHL Dropbox/Lab manual/Emergency-contact-information.docx")
