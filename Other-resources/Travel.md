@@ -8,7 +8,13 @@ Conferences are a great way to present your work, learn about other research, an
 * The [Society for Freshwater Science (SFS)](https://freshwater-science.org/annual-meeting-info), is an international society focused on understanding freshwater ecosystems. It holds annual conferences that are usually located in the US. SFS also offers several types of student awards and support.
 
 ### Reimbursement policies
-PLACEHOLDER
+Conducting work and traveling for meetings should not place undue financial pressure on you. Whenever possible, work with Catherine or a staff member to make purchases for travel. This will avoid you incurring out-of-pocket costs and then waiting for reimbursement. If necessary, you can make pre-approved purchases on your personal cards and submit a reimbursement request. At the moment, Catherine is the only one with this authority so you will work with her to set up a suitable arrangement for expenses. 
+
+**As a general rule, it is very important to keep all receipts, boarding passes, and agendas/conference schedules.**  
+
+Travel expenses must be approved by Catherine.
 
 ### General travel policies 
-PLACEHOLDER
+The University of Windsor's travel policies can be found [here](http://www.uwindsor.ca/aauheads/resources/travel-ent-expenses.html), and in more detail [here](http://www.uwindsor.ca/finance/sites/uwindsor.ca.finance/files/uofw_travel_policy_updated_april_2015_0.pdf)
+* The Healthy Headwaters Lab will strive to cover attendance for one conference per year for all lab members. Choosing a conference requires individual discussion with Catherine. Additional conferences can be attended if lab members are able to seek out external funding.
+* Always try to be frugal, within reason, with your travel arrangements.
