@@ -37,7 +37,7 @@ This gives general information for working in the field. More details on protoco
 
 ## Types of Field Work
 ### Water Chemistry and Nutrient Analysis
-PLACEHOLDER - need to fill in details
+[Nitrogen and Phosphorus field collection protocol](https://docs.google.com/document/d/1J_-WImrmv6p-hizuntN9HVxZ-ySU926bhYRPW6SIpNI/edit)
 
 ### Macroinvertebrate assessments
 PLACEHOLDER - need to fill in details
