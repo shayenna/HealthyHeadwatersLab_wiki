@@ -41,6 +41,9 @@ In general, we promote and encourage publishing best practice. And it is a pract
 
 Additionally, you are highly encouraged to produce a creative work that accompanies each manuscript. Some journals require a single image/graphic as part of the abstract, some of our research has also been developed into a public library containing two-page downloadable resources for the public (see: http://tinyurl.com/carextips for an example). Some of our teaching has been captured in a YouTube video (see: https://www.youtube.com/watch?v=jIFl_U7MGxA&t=2s). 
 
+#### Writing resources
+Some resources for improving writing are:
+* [Routine writing mistakes and advice for improvement](https://www.dropbox.com/s/z3uuksq3tdrscz4/Tips%20for%20Writing.pdf?dl=0)
 
 ### Working with partners
 PLACEHOLDER
