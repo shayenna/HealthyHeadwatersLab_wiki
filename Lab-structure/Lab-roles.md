@@ -1,5 +1,5 @@
 # Lab Research Staff Roles
-This file details the roles of research staff within the Healthy Headwaters Lab. Contact information for research staff can be found in the [Lab Directory](/Lab-structure-and-directories/Directory.md)    
+This file details the roles of research staff within the Healthy Headwaters Lab. Contact information for research staff can be found in the Lab Directory (Shared HHL Dropbox/Lab-Directory.docx).
 
 All research staff:
 * Attend weekly lab meetings

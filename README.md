@@ -19,13 +19,13 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
   * [Data Management](/Other-resources/Data-management.md)
   * [R and Data Analysis](/Other-resources/R.md)
 * Communication and Partnership information
-  * [Communications](/Communications/Communications-general.md) (including presentations, public outreach, publications, working with partners, social media)
+  * [Communications](/Communications/Communications-general.md) (including presentations, public outreach, publications, social media)
   * [Community & Translation Information and Guidelines](/Communications/Community-translation.md)
 * Other resources
-  * [Travel](/Other-resources/Travel.md) (conferences, meetings, reimbursement info, etc)
+  * [Travel](/Other-resources/Travel.md) (conferences, meetings, reimbursement info, etc.)
   * [Student Scholarships](/Other-resources/Student-scholarships.md)
   * [Offboarding (when you leave the lab!)](/Other-resources/Offboarding.md)
 
 ### Contact information
-A Lab Member Directory can be found in Dropbox at "Shared HHL Dropbox/Lab manual/Lab-directory.docx"  
-(Emergency contacts for lab members are found in "Shared HHL Dropbox/Lab manual/Emergency-contact-information.docx")
+A Lab Member Directory can be found in Dropbox at "Shared HHL Dropbox/Lab-directory.docx"  
+(Emergency contacts for lab members are found in "Shared HHL Dropbox/Emergency-contact-information.docx")
