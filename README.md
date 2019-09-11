@@ -7,7 +7,7 @@ Any member of the Healthy Headwaters Lab can freely edit the components of the w
 To edit the Wiki, navigate to the file that you want to edit, and click on the edit button in the top right. Once you make your edits, scroll to the bottom and select "Create a new branch for this commit and start a pull request", fill in a short description of what your edit does, name your new branch something meaningful (like "Update-field-protocol-NAME" where NAME is your surname), and click "Propose file change". Your changes can then be reviewed and commented on by other wiki users, and eventually an admin (currently Jess I.) will merge the changes with the master branch.
 
 A useful cheatsheet for formatting Markdown files (everything with the .md file type) can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-test test
+
 
 ### Contents
 * [Lab Manual](/Healthy-Headwaters-Lab-Manual.docx) *Note: this link won't work until we finish the lab manual and upload a file with the correct name*
