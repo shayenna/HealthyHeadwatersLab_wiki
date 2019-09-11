@@ -19,14 +19,13 @@ The Healthy Headwaters Activities Inventory (Shared HHL Dropbox/1.Healthy Headwa
 #### Field work checklist 
 A current field work checklist can be found in Dropbox (Shared HHL Dropbox/Forms/Field-gear-checklist.docx)
 
+### Transportation
+The Healthy Headwaters Lab has a lab vehicle named CJ (for the license plate!). Due to GLIER policies, only staff members are allowed to drive CJ. CJ is generally parked behind GLIER in the parking lot, and two sets of keys are held by Catherine and Jess Ives. When using CJ, make sure the Healthy Headwaters Lab magnets are placed on the doors so it can be identified as a University vehicle. This is especially important when parking on campus to avoid a parking ticket.
 
 ### Before Leaving GLIER
-* Fill out a Field Activity Plan (Shared HHL Dropbox/Forms/Field-Activity-Plan.docx) and send it to Catherine and Jess Ives. (Or Alyssa??) The Field Activity Plan will be saved on Dropbox and serve as a partial record of our lab activities.
+* Fill out a Field Activity Plan (Shared HHL Dropbox/Forms/Field-Activity-Plan.docx) and send it to Catherine and Jess Ives.  The Field Activity Plan will be saved on Dropbox and serve as a partial record of our lab activities.
 * Make sure you have all of the supplies and equipment you need (Complete the [field work checklist])
 * Sign any equipment out on the [Asana Equipment Locations Sheet](https://app.asana.com/0/1128801752832452/board)
-
-### In the Field (general)
-This gives general information for working in the field. More details on protocols for specific types of field work are given below.
 
 ### When You Return
 * Check in with Catherine and anyone else who knew you were in the field
