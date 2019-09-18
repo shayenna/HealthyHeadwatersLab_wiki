@@ -12,9 +12,11 @@ Conducting work and traveling for meetings should not place undue financial pres
 
 **As a general rule, it is very important to keep all receipts, boarding passes, and agendas/conference schedules.**  
 
-Travel expenses must be approved by Catherine.
+Travel expenses must be approved by Catherine.  
+Details on how to submit reimbursements are given in the [GLIER Student Handbook.](http://www1.uwindsor.ca/glier/glier-graduate-student-handbook)
 
 ### General travel policies 
 The University of Windsor's travel policies can be found [here](http://www.uwindsor.ca/aauheads/resources/travel-ent-expenses.html), and in more detail [here](http://www.uwindsor.ca/finance/sites/uwindsor.ca.finance/files/uofw_travel_policy_updated_april_2015_0.pdf)
 * The Healthy Headwaters Lab will strive to cover attendance for one conference per year for all lab members. Choosing a conference requires individual discussion with Catherine. Additional conferences can be attended if lab members are able to seek out external funding.
 * Always try to be frugal, within reason, with your travel arrangements.
+* When possible it is preferable to use the lab vehcile, CJ, to travel to meetings. More info on CJ can be found [here](/Equipment/CJ.md)
