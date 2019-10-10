@@ -12,7 +12,8 @@ Conducting work and traveling for meetings should not place undue financial pres
 
 **As a general rule, it is very important to keep all receipts, boarding passes, and agendas/conference schedules.**  
 
-Travel expenses must be approved by Catherine.  
+Travel expenses must be approved by Catherine. However, please note that *everyone has the leeway to spend money to avoid risk when necessary* (e.g., if unexpectedly tired on a long drive back from a meeting, you can avoid the dangers of fatigued driving by renting a cheap hotel room)   
+
 Details on how to submit reimbursements are given in the [GLIER Student Handbook.](http://www1.uwindsor.ca/glier/glier-graduate-student-handbook)
 
 ### General travel policies 
