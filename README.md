@@ -13,7 +13,9 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
 * [Lab Manual](/Healthy-Headwaters-Lab-Manual.docx) *Note: this link won't work until we finish the lab manual and upload a file with the correct name*
 * [Student Onboarding at GLIER/UWindsor](/Other-resources/Student-onboarding.md)
 * [Resources for Exploring Windsor!](/Other-resources/Other-resources-about-Windsor.md)
-* [Lab Roles](/Lab-structure/Lab-roles.md)
+* Lab Structure
+  * [Students](/Lab-structure/Student-projects.md)
+  * [Staff Roles](/Lab-structure/Lab-roles.md)
 * Protocols
   * [Field Work](/Field-work/Field-work.md)
   * [Lab Equipment](/Equipment/Equipment.md)
@@ -22,7 +24,6 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
   * [R and Data Analysis](/Other-resources/R.md)
 * Communication and Partnership information
   * [Communications](/Communications/Communications-general.md) (including presentations, public outreach, publications, social media)
-  * [Community & Translation Information and Guidelines](/Communications/Community-translation.md)
 * Other resources
   * [Travel](/Other-resources/Travel.md) (conferences, meetings, reimbursement info, etc.)
   * [Student Scholarships](/Other-resources/Student-scholarships.md)
@@ -33,4 +34,3 @@ A Lab Member Directory can be found in Dropbox at "Shared HHL Dropbox/Lab-direct
 (Emergency contacts for lab members are found in "Shared HHL Dropbox/Emergency-contact-information.docx")
 
 
-test

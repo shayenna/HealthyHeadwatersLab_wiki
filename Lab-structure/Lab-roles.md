@@ -19,7 +19,10 @@ Jess Ives is the Healthy Headwater Lab Research Facilitator. She:
 
 ### Community and Translation Associate
 Candy Donaldson is the Community and Translation Associate for Healthy Headwaters Lab. She:
-* **CANDY TO FILL IN HER ROLE INFO**  
+* Acts as community liaison, particularly with Bkejwanong First Nation
+* Manages the set-up and execution of community events
+* Helped develop and run the Traditional Ecological Knowledge field course
+* Oversees the Healthy Headwaters Lab Reflections blog
 * Assists with field work when necessary
 
 ### Aquatic Science Field and Lab Technician  
