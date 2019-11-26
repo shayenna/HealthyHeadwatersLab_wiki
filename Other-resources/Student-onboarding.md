@@ -15,3 +15,6 @@ Many of the logistics of being a student at GLIER are covered in the [GLIER Stud
 - [ ]	Complete the required [Health and Safety trainings](http://www1.uwindsor.ca/hr/system/files/CTR-FS-Aug%202015.pdf)
 - [ ]	Complete any required readings in Zotero 
 - [ ]	Work with Catherine and Mary Lou to get the correct keys for rooms you will need to access
+
+
+test test
