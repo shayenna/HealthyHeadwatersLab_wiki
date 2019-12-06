@@ -25,6 +25,12 @@ Candy Donaldson is the Community and Translation Associate for Healthy Headwater
 * Oversees the Healthy Headwaters Lab Reflections blog
 * Assists with field work when necessary
 
+### Stream Ecology & Biomonitoring Technician
+Alyssa Frazao is the Stream Ecology & Biomonitoring Technician for Healthy Headwaters Lab. She:
+* Oversees and coordinates field work for the lab
+* Ensures the lab and field stores are stocked and functional
+* Trains new lab members in benthic macroinvertebrate field and lab work
+
 ### Aquatic Science Field and Lab Technician  
 Jess Owen is the Healthy Headwaters Lab Aquatic Science Field and Lab Technician. She is based in GLIER's central nutrient facility. She:
 * Analyses Healthy Headwater Lab water samples for C, P, and N
