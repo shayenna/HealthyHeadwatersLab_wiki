@@ -44,4 +44,5 @@ Destiny Soney is the Healthy Headwaters Lab Nin Da Waab Jig Project Coordinator.
 Jim Boak is a consultant, acting as the Senior Agricultural Advisor for the Healthy Headwaters Lab. He:
 * Liaises between the lab and agricultural partners, including farmers and industry
 * Plays a key role in the development of the Farmer Advisory Board and Farmer Advisory Network
-* Organizes and advises on the development of agricultural-themed workshop and meetings
+* Organizes and advises on the development of agricultural-themed workshops and meetings
+* Advises in the development of project proposals
