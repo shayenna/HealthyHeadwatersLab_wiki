@@ -17,7 +17,7 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
   * [Students](/Lab-structure/Student-projects.md)
   * [Staff Roles](/Lab-structure/Lab-roles.md)
 * Protocols
-  * [Field Work](/Protocols/Field-work.md)
+  * [Field Work](/Protocols/Field-Work.md)
   * [Lab Equipment](/Protocols/Equipment.md)
   * [Lab Work](/Protocols/Lab-Work.md)
   * [Data Management](/Protocols/Data-management.md)
