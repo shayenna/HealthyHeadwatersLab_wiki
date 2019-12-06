@@ -13,4 +13,5 @@ Many of the logistics of being a student at GLIER are covered in the [GLIER Stud
 - [ ]	Contact Jess Ives to be granted access to the lab GitHub team
 - [ ] Contact Jess Ives to get access to Adobe
 - [ ]	Complete the required [Health and Safety trainings](http://www1.uwindsor.ca/hr/system/files/CTR-FS-Aug%202015.pdf)
+- [ ] Contact Alyssa to determine which [field and lab trainings](/Other-resources/Lab-protocols.md) you need to complete
 - [ ]	Work with Catherine and Mary Lou to get the correct keys for rooms you will need to access
