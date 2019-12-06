@@ -17,20 +17,18 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
   * [Students](/Lab-structure/Student-projects.md)
   * [Staff Roles](/Lab-structure/Lab-roles.md)
 * Protocols
-  * [Field Work](/Field-work/Field-work.md)
-  * [Lab Equipment](/Equipment/Equipment.md)
-  * [Lab protocols](/Other-resources/Lab-protocols.md)
-  * [Data Management](/Other-resources/Data-management.md)
-  * [R and Data Analysis](/Other-resources/R.md)
+  * [Field Work](/Protocols/Field-Work.md)
+  * [Lab Equipment](/Protocols/Equipment.md)
+  * [Lab Work](/Protocols/Lab-Work.md)
+  * [Data Management](/Protocols/Data-management.md)
 * Communication and Partnership information
   * [Communications](/Communications/Communications-general.md) (including presentations, public outreach, publications, social media)
 * Other resources
+  * [R and Data Analysis](/Other-resources/R.md)
   * [Travel](/Other-resources/Travel.md) (conferences, meetings, reimbursement info, etc.)
   * [Student Scholarships](/Other-resources/Student-scholarships.md)
   * [Offboarding (when you leave the lab!)](/Other-resources/Offboarding.md)
 
 ### Contact information
-A Lab Member Directory can be found in Dropbox at "Shared HHL Dropbox/Lab-directory.docx"  
-(Emergency contacts for lab members are found in "Shared HHL Dropbox/Emergency-contact-information.docx")
-
-test test
+A Lab Member Directory can be found in Dropbox at "Shared HHL OneDrive/Lab-directory.docx"  
+(Emergency contacts for lab members are found in "Shared HHL OneDrive/Emergency-contact-information.docx")
