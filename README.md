@@ -21,10 +21,10 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
   * [Lab Equipment](/Equipment/Equipment.md)
   * [Lab Work](/Other-resources/Lab-protocols.md)
   * [Data Management](/Other-resources/Data-management.md)
-  * [R and Data Analysis](/Other-resources/R.md)
 * Communication and Partnership information
   * [Communications](/Communications/Communications-general.md) (including presentations, public outreach, publications, social media)
 * Other resources
+  * [R and Data Analysis](/Other-resources/R.md)
   * [Travel](/Other-resources/Travel.md) (conferences, meetings, reimbursement info, etc.)
   * [Student Scholarships](/Other-resources/Student-scholarships.md)
   * [Offboarding (when you leave the lab!)](/Other-resources/Offboarding.md)
