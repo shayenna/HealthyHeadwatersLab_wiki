@@ -36,3 +36,12 @@ Jess Owen is the Healthy Headwaters Lab Aquatic Science Field and Lab Technician
 * Analyses Healthy Headwater Lab water samples for C, P, and N
 * Trains new lab members in nutrient analysis
 
+### Nin Da Waab Jig Project Coordinator 
+Destiny Soney is the Healthy Headwaters Lab Nin Da Waab Jig Project Coordinator. She:
+* Assists in the development and coordination of our lab's research with Nin Da Waab Jig (Walpole Island Heritage Centre) and the Walpole Island Land Trust. 
+
+### Senior Agricultural Advisor (consultant)  
+Jim Boak is a consultant, acting as the Senior Agricultural Advisor for the Healthy Headwaters Lab. He:
+* Liaises between the lab and agricultural partners, including farmers and industry
+* Plays a key role in the development of the Farmer Advisory Board and Farmer Advisory Network
+* Organizes and advises on the development of agricultural-themed workshop and meetings
