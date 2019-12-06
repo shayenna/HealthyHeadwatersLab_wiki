@@ -17,10 +17,10 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
   * [Students](/Lab-structure/Student-projects.md)
   * [Staff Roles](/Lab-structure/Lab-roles.md)
 * Protocols
-  * [Field Work](/Field-work/Field-work.md)
-  * [Lab Equipment](/Equipment/Equipment.md)
-  * [Lab Work](/Other-resources/Lab-protocols.md)
-  * [Data Management](/Other-resources/Data-management.md)
+  * [Field Work](/Protocols/Field-work.md)
+  * [Lab Equipment](/Protocols/Equipment.md)
+  * [Lab Work](/Protocols/Lab-Work.md)
+  * [Data Management](/Protocols/Data-management.md)
 * Communication and Partnership information
   * [Communications](/Communications/Communications-general.md) (including presentations, public outreach, publications, social media)
 * Other resources
