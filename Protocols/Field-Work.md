@@ -43,7 +43,4 @@ When using CJ for meetings/field work/etc., please sign her out on the lab Googl
 ### Macroinvertebrate assessments
 PLACEHOLDER - need to fill in details
 
-### Testing 
-Just being a guinea pig
-
 
