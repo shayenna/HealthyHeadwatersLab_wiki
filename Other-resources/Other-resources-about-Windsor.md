@@ -10,8 +10,11 @@ Finding a rental in Windsor can be difficult, depending on what you want. **Do n
 * Add more! Maybe Alyssa/Candy/Jess can add more about different areas.
 
 #### Transportation
-* Buses (placeholder)
-* Biking (placeholder)
+* Buses: A bus pass is included with your student fees. The bus is relatively good for getting around the central area of Windsor, but less so further out.
+** The best way to get route information/times is to use the public transport option when search directions on Google maps
+* Biking: Windsor isn't the most bike friendly city, but there riverfront path is great for getting to GLIER and there's a scattering of on and off-road bike paths around the city. 
+** Bike Widsor-Essex in Walkerville https://bikewindsoressex.com/ is a great source of good second hand bikes (Likely $100-$200 for one that will get you around).
+** Make sure you get a good D-lock! Unfortunately bike theft is common, even around the university and GLIER. 
 * Car (parking info - placeholder)
 
 #### Things to do
