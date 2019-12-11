@@ -7,4 +7,4 @@ Depending on your role in the Healthy Headwaters Lab, you may require some or al
 - [ ] Pleasure Craft Operator
 - [ ] Electrofishing
 - [ ] Ontario Benthic Biomonitoring Network (OBBN)
- 
+- [ ] Laboratory Safety Training for Researchers
