@@ -24,6 +24,18 @@ The Healthy Headwaters Lab has a lab vehicle named CJ (for the license plate!). 
   
 When using CJ for meetings/field work/etc., please sign her out on the lab Google Calendar.
 
+### Weather & Water levels
+If your field work is weather or water-level dependant, there are multiple forecasts and live data sources available online that you can check before you do fieldwork.
+
+#### Weather forecasts
+* [Windsor weather](https://weather.gc.ca/city/pages/on-94_metric_e.html)
+* [Chatham-Kent (closest to Bkegwanong)](https://weather.gc.ca/city/pages/on-11_metric_e.html]
+* Other [Ontario forecasts](https://weather.gc.ca/forecast/canada/index_e.html?id=ON)
+
+#### Water levels
+* Hourly lake levels for [Lake St Clair](https://waterlevels.gc.ca/eng/find/zone/43) and [Lake Erie](https://waterlevels.gc.ca/eng/find/zone/44) are availble from DFO
+* Real-time data for [rivers](https://wateroffice.ec.gc.ca/google_map/google_map_e.html?map_type=real_time&search_type=region&region=ONT) across Ontario is available from Environment Canada
+
 ### Before Leaving GLIER
 * Fill out a Field Activity Plan (Shared HHL Dropbox/Forms/Field-Activity-Plan.docx) and send it to Catherine and Jess Ives.  The Field Activity Plan will be saved on Dropbox and serve as a partial record of our lab activities.
 * Make sure you have all of the supplies and equipment you need (Complete the [field work checklist])
