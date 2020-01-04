@@ -13,8 +13,9 @@ Jess Ives is the Healthy Headwater Lab Research Facilitator. She:
 * Assists with grant proposals and funding applications
 * Manages the Lab Wiki
 * Oversees data management and organization for all lab projects
-* Helps Catherine write manuscripts
+* Helps Catherine (and other team members) write manuscripts
 * Assists students with presentations and papers
+* Helps with onboarding new team members
 * Assists with field work when necessary
 
 ### Community and Translation Associate
@@ -46,3 +47,4 @@ Jim Boak is a consultant, acting as the Senior Agricultural Advisor for the Heal
 * Plays a key role in the development of the Farmer Advisory Board and Farmer Advisory Network
 * Organizes and advises on the development of agricultural-themed workshops and meetings
 * Advises in the development of project proposals
+* Is an advocate for environmental responsibility
