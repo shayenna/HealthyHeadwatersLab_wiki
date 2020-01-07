@@ -27,11 +27,12 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
   * [R and Data Analysis](/Other-resources/R.md)
   * [Travel](/Other-resources/Travel.md) (conferences, meetings, reimbursement info, etc.)
   * [Student Scholarships](/Other-resources/Student-scholarships.md)
-  * [Offboarding (when you leave the lab!)](/Other-resources/Offboarding.md)
+  * [Offboarding](/Other-resources/Offboarding.md) (when you leave the lab!)
+  * [Work/life management, mental health resources](/Other-resources/Mental-health.md)
 
 ### Contact information
 A Lab Member Directory can be found in Dropbox at "Shared HHL OneDrive/Lab-directory.docx"  
 (Emergency contacts for lab members are found in "Shared HHL OneDrive/Emergency-contact-information.docx")
 
 
-test test
+
