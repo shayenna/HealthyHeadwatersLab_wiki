@@ -31,10 +31,8 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
   * [Work/life management, mental health resources](/Other-resources/Mental-health.md)
 
 ### Contact information
-A Lab Member Directory can be found in Dropbox at "Shared HHL OneDrive/Lab-directory.docx"  
+A Lab Member Directory can be found in OneDrive at "Shared HHL OneDrive/Lab-directory.docx"  
 (Emergency contacts for lab members are found in "Shared HHL OneDrive/Emergency-contact-information.docx")
 
-
-test test
 
 
