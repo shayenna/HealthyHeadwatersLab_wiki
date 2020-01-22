@@ -10,6 +10,6 @@ Below is a list of each of the pieces of equipment owned by the Healthy Headwate
   * #### [CJ - lab vehicle](/Equipment/CJ.md)
 
 ### Equipment Maintenance
-Records of regular equipment maintenance, calibrations, and repairs are kept in **Shared HHL Dropbox/Equipment_Maintenance_records.xlsx**. Please make sure to update the file when appropriate. If there is an issue with a piece of equipment, this should also be noted in the spreadsheet and let Alyssa know about it to make sure it gets fixed.  
+Records of regular equipment maintenance, calibrations, and repairs are kept in **Shared HHL OneDrive/Equipment_Maintenance_records.xlsx**. Please make sure to update the file when appropriate. If there is an issue with a piece of equipment, this should also be noted in the spreadsheet and let Alyssa know about it to make sure it gets fixed.  
 
 The calibration and maintenance schedules are slightly different for different pieces of equipment, and details on those can be found in the equipment-specific pages linked above. 
