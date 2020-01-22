@@ -56,4 +56,4 @@ If your field work is weather or water-level dependant, there are multiple forec
 PLACEHOLDER - need to fill in details
 
 ### Marking a GPS Waypoint
-[GPS Waypoint instructions](/SOP-Mark-waypoint.docx)
+[GPS Waypoint instructions](/SOP-Mark-Waypoint.docx)
