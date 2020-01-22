@@ -10,7 +10,7 @@ A useful cheatsheet for formatting Markdown files (everything with the .md file 
 
 
 ### Contents
-* Lab Manual *Note: this link won't work until we finish the lab manual and upload a file with the correct name*
+* [Lab Manual](/HHL_Manual-For_my_HOMiES_2020.pdf)
 * [Student Onboarding at GLIER/UWindsor](/Other-resources/Student-onboarding.md)
 * [Resources for Exploring Windsor!](/Other-resources/Other-resources-about-Windsor.md)
 * Lab Structure
