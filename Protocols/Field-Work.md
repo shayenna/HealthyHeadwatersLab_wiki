@@ -48,11 +48,12 @@ If your field work is weather or water-level dependant, there are multiple forec
 * If anything broke or acted funny in the field, let Alyssa know, so it can be fixed.
 * If you came up with any new protocols or ideas about how to improve field work - bring them up to Catherine, and if appropriate, add them as a suggested change to the Wiki! 
 
-## Types of Field Work
+## Specific Field Work Protocols
 ### Water Chemistry and Nutrient Analysis
 [Nitrogen and Phosphorus field collection protocol](https://docs.google.com/document/d/1J_-WImrmv6p-hizuntN9HVxZ-ySU926bhYRPW6SIpNI/edit)
 
 ### Macroinvertebrate assessments
 PLACEHOLDER - need to fill in details
 
-
+### Marking a GPS Waypoint
+[GPS Waypoint instructions](/SOP-Mark-waypoint.docx)
