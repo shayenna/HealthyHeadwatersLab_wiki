@@ -53,7 +53,7 @@ If your field work is weather or water-level dependant, there are multiple forec
 [Nitrogen and Phosphorus field collection protocol](https://docs.google.com/document/d/1J_-WImrmv6p-hizuntN9HVxZ-ySU926bhYRPW6SIpNI/edit)
 
 ### Macroinvertebrate assessments
-PLACEHOLDER - need to fill in details
+[Benthic Macroinvertebrate field collection protocol](https://docs.google.com/document/d/1_NvGkawBGawIfpX97cR8aQUd71aNrD4YaAPWJFsjoGA/edit)
 
 ### Marking a GPS Waypoint
 [GPS Waypoint instructions](/Protocols/SOP-Mark-Waypoint.docx)
