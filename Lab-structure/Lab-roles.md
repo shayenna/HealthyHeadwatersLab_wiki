@@ -10,13 +10,14 @@ All research staff:
 ### Research Facilitator
 Jess Ives is the Healthy Headwater Lab Research Facilitator. She:
 * Seeks out and manages partnerships with research partners (e.g., farmers, NGOs, governmental organizations)
+* Acts as point person for Farmer Research Advisory Board activities
 * Assists with grant proposals and funding applications
 * Manages the Lab Wiki
 * Oversees data management and organization for all lab projects
 * Helps Catherine (and other team members) write manuscripts
 * Assists students with presentations and papers
 * Helps with onboarding new team members
-* Assists with field work when necessary
+* Assists with field work
 
 ### Community and Translation Associate
 Candy Donaldson is the Community and Translation Associate for Healthy Headwaters Lab. She:
@@ -38,7 +39,7 @@ Jess Owen is the Healthy Headwaters Lab Aquatic Science Field and Lab Technician
 * Trains new lab members in nutrient analysis
 
 ### Nin Da Waab Jig Project Coordinator 
-Destiny Soney is the Healthy Headwaters Lab Nin Da Waab Jig Project Coordinator. She:
+Destiny Soney (*currently on parental leave*) is the Healthy Headwaters Lab Nin Da Waab Jig Project Coordinator. She:
 * Assists in the development and coordination of our lab's research with Nin Da Waab Jig (Walpole Island Heritage Centre) and the Walpole Island Land Trust. 
 
 ### Senior Agricultural Advisor (consultant)  
